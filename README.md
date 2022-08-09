@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new things about technology
 - 🌱 I’m currently learning computer sciences 
 - 🌼 from University of Engineering and Technology Lahore
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on data analysis and machine learning projects
 - 📫 How to reach me ...
 - 🤙🏻 instagram//@bilal.hamzacaptain
 - 
