@@ -3,8 +3,8 @@
 - 🌱 I’m currently persuing my computer sciences 
 - 🌼 from University of Engineering and Technology Lahore
 - 💞️ I’m looking to collaborate on data analysis and machine learning projects
-- 📫 How to reach me ...
-- 🤙🏻 instagram//@bilal.hamzacaptain
+- 🤙🏻 Reach me out at:
+-    instagram//@bilal.hamzacaptain
 - 
 
 <!---
