@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bilal Hamza
 - 👀 I’m interested in learning new things about technology
-- 🌱 I’m currently persuing my computer sciences 
+- 🌱 I’m currently pursuing my computer sciences 
 - 🌼 from University of Engineering and Technology Lahore
 - 💞️ I’m looking to collaborate on data analysis and machine learning projects
 - 🤙🏻 Reach me out at:
