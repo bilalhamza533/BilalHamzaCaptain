@@ -5,7 +5,6 @@
 - 💞️ I’m looking to collaborate on data analysis and machine learning projects
 - 🤙🏻 Reach me out at:
 -    instagram//@bilal.hamzacaptain
-- 
 
 <!---
 BilalHamzaCaptain/BilalHamzaCaptain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
