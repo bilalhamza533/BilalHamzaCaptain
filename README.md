@@ -1,7 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
 
 ### <div align="center">I'm Bilal, Computer Sciences student at UET, having interest in React.js 👨‍💻 and python 🚀</div>  
   
